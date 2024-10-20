@@ -1,0 +1,16 @@
+#btn-size-change {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  background: linear-gradient(135deg, #0762ff, #00d4ff);
+  border: none;
+  padding: 15px 30px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.1s, box-shadow 0.1s, opacity 0.1s, width 0.1s, height 0.1s;
+  opacity: 1;
+}
