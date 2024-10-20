@@ -1,0 +1,13 @@
+#btn-size-change {
+  position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    color: green;
+    background-color: rgba(7, 98, 255, 0.274);
+    border: 2px solid green;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
